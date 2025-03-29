@@ -30,21 +30,3 @@ h1 {
   /* background: #fff; */
   border: 1px solid white;
 }
-
-.product-card h2 {
-  color: #222;
-}
-
-.rating-stars {
-  font-size: 24px;
-  cursor: pointer;
-}
-
-.rating-stars span {
-  margin: 0 5px;
-  transition: color 0.2s;
-}
-
-.rating-stars span:hover {
-  color: gold;
-}
